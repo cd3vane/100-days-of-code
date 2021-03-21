@@ -8,5 +8,5 @@
 **Thoughts** I'm pretty proud of how this website is turning out it is much better than my first attempt at a portfolio and i'm excited to continue improving at HTML/CSS/JS
 
 **Link(s) to work**
-1. [Single Page Portfolio Website](cd3vane.github.io)
-2. [Single Page Portfolio Github](github.com/cd3vane/cd3vane.github.io)
+1. [Single Page Portfolio Website](https://cd3vane.github.io)
+2. [Single Page Portfolio Github](http://github.com/cd3vane/cd3vane.github.io)
