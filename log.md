@@ -32,3 +32,27 @@
 **Link(s) to work**
 1. [Movie App](https://cd3vane.dev/movie-app)
 2. [Movie App Github](http://github.com/cd3vane/movie-app)
+
+
+### Day 4: March 24, Wednesday
+
+**Today's Progress**: Added the 3 main tabs and ability to navigate to each one. Also implemented the search functionality for my movie app and put it in the navbar so that you can search for movies from any page and you will be taken to the Browse tab and the search results will be displayed.
+
+**Thoughts** I am trying to figure out what JS framework I will be using to build out the rest of the features of my app because I want to use this as an opportunity to move beyond vanilla javascript in my applciations.
+
+**Link(s) to work**
+1. [Movie App](https://cd3vane.dev/movie-app)
+2. [Movie App Github](http://github.com/cd3vane/movie-app)
+
+
+### Day 5: March 25, Thursday
+
+**Today's Progress**: Today was a busy day and I was not able to get any progress done on the movie app however I did have to write and use a Python renaming script for work and I also did some reasearch into Vue.js and React.js and I am still trying to decide which one I want to use on my app.
+
+**Thoughts** It is not always easy to find an hour to work on personal projects but that is why this is a challenge and I am not going to let it discourage me even though the code I wrote today did not technically count with the official rules of the challenge. Tomorrow I will begin working in one of the JS frameworks.
+
+**Link(s) to research**
+1. [React.js](https://reactjs.org/)
+2. [Vue.js](https://vuejs.org/)
+
+
