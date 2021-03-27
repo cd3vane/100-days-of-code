@@ -58,11 +58,20 @@
 
 ### Day 6: March 26, Friday
 
-**Today's Progress**: Today was a busy day and I was not able to get any progress done on the movie app however I did have to write and use a Python renaming script for work and I also did some reasearch into Vue.js and React.js and I am still trying to decide which one I want to use on my app.
+**Today's Progress**: 
 
-**Thoughts** It is not always easy to find an hour to work on personal projects but that is why this is a challenge and I am not going to let it discourage me even though the code I wrote today did not technically count with the official rules of the challenge. Tomorrow I will begin working in one of the JS frameworks.
+**Thoughts**: 
 
 **Link(s) to research**
 1. [React.js](https://reactjs.org/)
 2. 
 
+### Day 7: March 27, Saturday
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to research**
+1. [ Traversy Media React Tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8&amp;t=268s)
+2. [Task Manager Github](http://github.com/cd3vane/task-manager)
