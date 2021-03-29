@@ -58,20 +58,32 @@
 
 ### Day 6: March 26, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Today  I set up the Next.js and Netlify blog that I found on github for a one click deploy and then spent some time editting it for my needs.
 
-**Thoughts**: 
+**Thoughts**: I need to actually start writing tutorial blogs with this version of a blog that I have at my disposal.
 
 **Link(s) to research**
-1. [React.js](https://reactjs.org/)
-2. 
+1. [Next.js/Netlify Blog](https://github.com/cassidoo/next-netlify-starter)
+2. [My Blog](blog.cd3vane.dev)
 
 ### Day 7: March 27, Saturday
 
-**Today's Progress**:
+**Today's Progress**: I went throught the Traversy Media React tutoial on youtube and coded the task manager app from the tutorial trying to go ahead of the tutorial whenever I could to ensure I was understanding and not just copying code.
 
-**Thoughts**: 
+**Thoughts**: There is a lot more to learn about frontend development that has been opened up by watching this tutorial but it is also exciting because there is a lot of things that I can do with react that seemeed very difficult with vanilla javascript.
 
 **Link(s) to research**
 1. [ Traversy Media React Tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8&amp;t=268s)
+2. [Task Manager Github](http://github.com/cd3vane/task-manager)
+
+
+
+### Day 8: March 28, Sunday
+
+**Today's Progress**: I watched the Traversy Media tutorial on Async Await becasue I was not as familiar with this method and it was used in the end of the tutorial I watched yesterday.
+
+**Thoughts**: Async await is a much better method than callbacks and even promises in my opinion and I have now changed the way that I am fetching from the TMDB API in my movie app as well as a way to practice.
+
+**Link(s) to research**
+1. [ Traversy Media Async/Await Tutorial](https://www.youtube.com/watch?v=PoRJizFvM7s)
 2. [Task Manager Github](http://github.com/cd3vane/task-manager)
