@@ -87,3 +87,13 @@
 **Link(s) to research**
 1. [ Traversy Media Async/Await Tutorial](https://www.youtube.com/watch?v=PoRJizFvM7s)
 2. [Task Manager Github](http://github.com/cd3vane/task-manager)
+
+
+ Day 9: March 29, Monday
+
+**Today's Progress**: Recreating my movie app with React rather than vanilla javascript. Today I created the general layout of all the components I think I will need and fully implemented the Movies and Movie components so that you.can view the popular tab.and you can search in the browse tab. Also I started to work on the detail view for any movie you click on.
+
+**Thoughts**: I was able to make more progress faster using React and it seems to solve the problem of creating a watchlist and movie views that would have been much more tedious in Vanilla Javascript.
+
+**Link(s) to research**
+1.[Movie App Github](https://github.com/cd3vane/movie-app)
