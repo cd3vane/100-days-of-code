@@ -97,3 +97,16 @@
 
 **Link(s) to research**
 1. [Movie App Github](https://github.com/cd3vane/movie-app)
+
+
+
+
+ ###Day 10: March 30, Tuesday
+
+**Today's Progress**: Deployed my react movie app to github pages and implemented Pagination from material-ui/Pagination and also edited the  movie detail page further to display slightly more information and reduce image size.
+
+**Thoughts**: React is very useful tool and being able to use all of the components that already exist like the pagination and the tabs that I am using in this application makes developing it much easier.
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+2. [Live Demo](https://cd3vane.dev/movie-app)
