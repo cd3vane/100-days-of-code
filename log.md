@@ -89,7 +89,7 @@
 2. [Task Manager Github](http://github.com/cd3vane/task-manager)
 
 
- ###Day 9: March 29, Monday
+ ### Day 9: March 29, Monday
 
 **Today's Progress**: Recreating my movie app with React rather than vanilla javascript. Today I created the general layout of all the components I think I will need and fully implemented the Movies and Movie components so that you.can view the popular tab.and you can search in the browse tab. Also I started to work on the detail view for any movie you click on.
 
@@ -99,9 +99,7 @@
 1. [Movie App Github](https://github.com/cd3vane/movie-app)
 
 
-
-
- ###Day 10: March 30, Tuesday
+ ### Day 10: March 30, Tuesday
 
 **Today's Progress**: Deployed my react movie app to github pages and implemented Pagination from material-ui/Pagination and also edited the  movie detail page further to display slightly more information and reduce image size.
 
