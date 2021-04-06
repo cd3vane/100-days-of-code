@@ -108,3 +108,54 @@
 **Link(s) to research**
 1. [Movie App Github](https://github.com/cd3vane/movie-app)
 2. [Live Demo](https://cd3vane.dev/movie-app)
+
+ ### Day 11: March 31, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+
+
+ ### Day 12: April 2, Friday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+2. [Live Demo](https://cd3vane.dev/movie-app)
+
+ ### Day 13: April 3, Saturday
+ 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+
+
+ ### Day 14: April 4, Sunday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+2. [Live Demo](https://cd3vane.dev/movie-app)
+
+
+ ### Day 15: April 5, Monday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to research**
+1. [Movie App Github](https://github.com/cd3vane/movie-app)
+2. [Live Demo](https://cd3vane.dev/movie-app)
